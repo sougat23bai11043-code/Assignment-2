@@ -1,5 +1,5 @@
 # Assignment-2
-# 📊 Customer Churn Prediction using Logistic Regression
+# Customer Churn Prediction using Logistic Regression
 
 A Machine Learning project developed as part of **AI-ML Assignment 2**. This project predicts whether a customer is likely to leave (churn) using a **Logistic Regression** model.
 
@@ -176,7 +176,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 **Name:** Sougat Das
 
-**Course:** AI & Machine Learning
+**Course:** AIML
 
 **Assignment:** Assignment-2
 
